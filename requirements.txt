@@ -1,0 +1,15 @@
+streamlit
+transformers
+torch
+accelerate
+peft
+trl
+bitsandbytes
+datasets
+pandas
+scikit-learn
+pillow
+pytesseract
+opencv-python
+joblib
+sentencepiece
